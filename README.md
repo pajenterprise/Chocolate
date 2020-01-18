@@ -1,0 +1,2 @@
+# Chocolatey
+Package Extensions - Extend ChocolatEnhanced functionality, additional PowerShell functions - giving you more control, reliability, smoother usage, and covering more scenarios that make sense for organizations Package Internalizer - Convert existing packages for complete offline / reliable use (removes need for internet access from existing packages)!Package Builder - Detect and create full software deployments in 5-10 seconds!
